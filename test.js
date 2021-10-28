@@ -1,0 +1,3 @@
+$(sdocume).read
+
+sd/*
